@@ -1,1 +1,1 @@
-# my-template
+# jest-template
